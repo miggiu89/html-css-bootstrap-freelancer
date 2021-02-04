@@ -1,0 +1,70 @@
+* {
+  margin: 0 auto;
+  padding: 0;
+  box-sizing: border-box;
+}
+
+/* header menu e jumbo*/
+#first_cont {
+  height: 60px;
+  color: white;
+  background-color: #303e4c;
+}
+.jumbo {
+  height: 400px;
+  text-align: center;
+  color: white;
+  background-color: #29947f;
+}
+
+
+/* portfolio */
+.portfolio_main {
+  width: 80%;
+  padding: 10px;
+}
+.mix_portfolio {
+  padding: 10px;
+}
+.portfolio {
+  height: 250px;
+  border-radius: 10px;
+}
+.house {
+  background-color: #a0344b;
+}
+.cake {
+  background-color: #885c0d;
+}
+.circus {
+  background-color: #3c880d;
+}
+.play {
+  background-color: #8067ca;
+}
+.box {
+  background-color: #471c4a;
+}
+.submarine {
+  background-color: #ca9ab2;
+}
+
+
+/* contatti */
+.contact_main {
+  width: 80%;
+  padding: 10px;
+  height: 600px;
+}
+
+
+/* footer */
+.footer_main {
+  background-color: #3a546d;
+  padding: 10px;
+  height: 300px;
+}
+.bottom_footer {
+  background-color: #2c3e50;
+  height: 100px;
+}
